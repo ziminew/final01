@@ -1,0 +1,154 @@
+body {
+  margin:0;
+  background-color: #0164FF;
+}
+.frame {
+    width: 100%;
+    height: 100%;
+    background-color: #0164FF;
+}
+
+.play {
+	width: 20px;
+    height: 20px;
+    border-color: transparent transparent transparent white;
+    border-style: solid solid solid solid;
+    border-width: 10px 0 10px 15px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}    
+
+.header {
+    width: 100%;
+    height: 5%;
+    background-color: #0164FF;
+    position: absolute;
+    top: 0;
+}
+
+.margin1 {
+    width: 5%;
+    height: 90%;
+    background-color: #0164FF;
+    position: absolute;
+    top: 5%;
+}
+
+
+.text1 {
+    width: 90%;
+    height: 10%;
+    background-color: #0164FF;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+.singer {
+    font-size: 250%;
+    font-family: Coconat Ext;
+    color: white;
+    text-align: center;
+
+    top: 5%;
+}
+
+.text2 {
+    width: 90%;
+    height: 15%;
+    background-color: #0164FF;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+}
+
+.song1 {
+    font-size: 70%;
+    font-family: Coconat;
+    color: white;
+    text-align: center;
+}
+
+.song2 {
+    font-size: 70%;
+    font-family: Coconat;
+    color: white;
+    text-align: center;
+}
+
+.song3 {
+    font-size: 70%;
+    font-family: Coconat;
+    color: white;
+    text-align: center;
+}
+
+.center {
+    width: 90%;
+    height: 40%;
+    background-color: #0164FF;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+}
+
+img { 
+    
+}
+
+.text3 {
+    width: 90%;
+    height: 5%;
+    background-color: #0164FF;
+    position: absolute;
+    top: 75%;
+    left: 5%;
+}
+
+.song4 {
+	font-size: 70%;
+    font-family: Coconat;
+    color: white;
+    text-align: center;
+}
+
+.text4 {
+    width: 90%;
+    height: 15%;
+    background-color: #0164FF;
+    position: absolute;
+    top: 80%;
+    left: 5%;
+}
+
+.album {
+	font-size: 150%;
+    font-family: Coconat Ext;
+    color: white;
+    text-align: center;
+}
+
+.date {
+	font-size: 150%;
+    font-family: Coconat Ext;
+    color: white;
+    text-align: center;
+}
+
+.margin2 {
+    width: 5%;
+    height: 90%;
+    background-color: #0164FF;
+    position: absolute;
+    top: 5%;
+    left: 95%;
+}
+
+.footer {
+    width: 100%;
+    height: 5%;
+    background-color: #0164FF;
+    position: absolute;
+    bottom: 0;
+}
